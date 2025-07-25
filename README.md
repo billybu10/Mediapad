@@ -26,8 +26,10 @@ This hackpad uses [QMK](https://qmk.fm/) firmware for everything.
 
 - the rotary encoders change volume and brightness
 - The 8 keys
-| Mute | Play/Pause | Previous track | Next Track |
-| Calculator | Web browser | E-mail | Control Panel | 
+  
+Mute | Play/Pause | Previous track | Next Track 
+---|---|---|---
+Calculator | Web browser | E-mail | Control Panel
 
 
 ## BOM:
